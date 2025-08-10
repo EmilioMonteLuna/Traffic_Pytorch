@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+ENV/
+.env
+.env.*
+
+# Data and Models
+*.pth
+*.h5
+*.ckpt
+
+*.tsv
+*.xlsx
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Misc
+*.egg-info/
+dist/
+build/
+
+# Anaconda
+anaconda_projects/
+
